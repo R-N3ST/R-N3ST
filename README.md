@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @R-N3ST
+- 👀 I’m interested in automatization and QA
+- 👀 I'm familiar with Python, Jira, SWARM, JENKINS, Confluence, SCRUM and a bit of JS
+- 👀 I've already achieved CCNA V7 – „Introduction to Networks” and Security in Linux("Softronic") certificates
+- 🌱 I’m currently learning Selenium, Python and ISTQB requirements/scheme
+- 💞️ I’m looking to collaborate as automation tester(junior) or manual QA with introduction to automation
+- 📫 ernest.kozikowski@ogmail.com
